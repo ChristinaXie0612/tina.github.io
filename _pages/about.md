@@ -32,12 +32,12 @@ Cui, X., Wang, C., Sensoy, A., Liao, J., & **⭐Xie, X**. (2023).
 
 # Working Papers
 
-**When SC digital transformation fuels hidden risks: Environmental buffers and relational scaffolds against opportunism-induced performance erosion**
-Lu Yang, Baofeng Huo, **⭐Xiaochen Xie**
+**When SC digital transformation fuels hidden risks: Environmental buffers and relational scaffolds against opportunism-induced performance erosion**  
+Lu Yang, Baofeng Huo, **⭐Xiaochen Xie**  
 
 
-**The impact of social media usage on supply chain performance: The mechanisms of supply chain resilience**
-**Xiaochen Xie**, Siyu Li, Baofeng Huo
+**The impact of social media usage on supply chain performance: The mechanisms of supply chain resilience**  
+**Xiaochen Xie**, Siyu Li, Baofeng Huo  
 
 
 
