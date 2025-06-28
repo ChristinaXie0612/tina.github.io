@@ -13,34 +13,26 @@ I'm a second year phd student from Zhejiang University. My research interest inc
 # Publications
 ⭐ is the corresponding author.
 
-**Unknown unknowns: Knightian uncertainty and corporate opportunistic earnings management** 
-
+**Unknown unknowns: Knightian uncertainty and corporate opportunistic earnings management**
 *British Journal of Management*, 35(1), 137-155.  
-
 Yao, S., **Xiaochen Xie**, Boubaker, S., Sensoy, A., & Cheng, F. (2024).
 
 
 
 **Uncertainty of uncertainty and accounting conservatism.**
-
 *Finance Research Letters*, 52, 103525.
-
 Cui, X., Ma, T., **Xie, X.**, & Goodell, J. W. (2023).
 
 
 
 **Economic policy uncertainty and green innovation: Evidence from China**
-
 *Economic Modelling*, 118, 106104.
-
 Cui, X., Wang, C., Sensoy, A., Liao, J., & **⭐Xie, X**. (2023).
 
 
 
 **Uncertainty of uncertainty and accounting conservatism**
-
 *Finance Research Letters*, 52, 103525.
-
 Cui, X., Ma, T., **Xie, X.**, & Goodell, J. W. (2023).
 
 
